@@ -1,0 +1,5 @@
+C:\Users\lrubio\PROYECTOS\ENTREVISTAS\obj\Debug\net8.0\TestEntrevistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lrubio\PROYECTOS\ENTREVISTAS\obj\Debug\net8.0\TestEntrevistas.AssemblyInfoInputs.cache
+C:\Users\lrubio\PROYECTOS\ENTREVISTAS\obj\Debug\net8.0\TestEntrevistas.AssemblyInfo.cs
+C:\Users\lrubio\PROYECTOS\ENTREVISTAS\obj\Debug\net8.0\TestEntrevistas.csproj.CoreCompileInputs.cache
+C:\Users\lrubio\PROYECTOS\ENTREVISTAS\obj\Debug\net8.0\TestEntrevistas.sourcelink.json
